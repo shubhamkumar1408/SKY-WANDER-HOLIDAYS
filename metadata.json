@@ -1,0 +1,8 @@
+{
+  "name": "Sky Wander Holidays",
+  "description": "Premier domestic Indian holiday & tour packages platform featuring interactive all-India destination discovery, custom AI itinerary planner, instant quote calculator, and live booking updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
